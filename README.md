@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![ Banner Image](https://github.com/VIENDANBACK5/my-notes/blob/v4/Black%20Gradient%20Technology%20YouTube%20Banner(1)(1).png)
 
 <!--Night Owl image-->
 <div>
@@ -7,20 +7,26 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ doan ngoc chung! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ DOAN NGOC CHUNG! 
+* IT Student & Research Enthusiast (Developer / Programmer) *
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Java-OOP, DB, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- 😂 Student by day, bug hunter by night!
+- 🚀 Trying to debug life with Ctrl + Z... still not working.
+- 💁‍♂️ Trusted member at [CNTT định hướng ứng dụng PTIT ](https://www.facebook.com/cunhancntt.ptit)
+- 🏙 A lifelong Insider and Gossiper at [DOAN NGOC CHUNG](https://www.facebook.com/oanngocchung.119045).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to).
+- 🤓📖 In the future, my research might actually be useful somewhere :))
+- Right now, my main goal is to graduate from university 🎓📚😂
+
+
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit [Portfolio](https://kiran1689.github.io) for more details about author.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
