@@ -37,7 +37,8 @@
 ---
 
 
-<!--Languages and Tools Section-->       
+<!--Languages and Tools Section-->      
+<!--
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -66,6 +67,7 @@
 
 
 <!--Trophies Section-->   
+<!--
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Kiran1689">
@@ -87,6 +89,7 @@
 <br />
 
 <!--Github stats Table--> 
+<!--
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -130,6 +133,7 @@
 <br />
 
 <!--Contribution Graph-->
+<!--
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
@@ -138,6 +142,7 @@
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
+<!--
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
@@ -173,6 +178,7 @@
 
 
 <!--STARTS_HERE_QUOTE_CARD-->
+<!--
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=If%20the%20only%20prayer%20you%20ever%20say%20in%20your%20entire%20life%20is%20thank%20you%2C%20it%20will%20be%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
@@ -212,7 +218,7 @@
 
 
 <!--Contact Section--> 
-
+<!--
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
@@ -243,13 +249,16 @@
 <br/>
 
 <!--Buy me a coffee-->
+<!--
 <div align="center">
 <a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
 <!--Footer--> 
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+-->
 
