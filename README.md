@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Java-OOP, DB, REST API and Data Visualization. </p>
+<p align="left">AI Researcher-in-training with a strong foundation in mathematics and machine learning, exploring computer vision, and reinforcement learning, with a data-centric approach and emphasis on rigorous experimentation. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
